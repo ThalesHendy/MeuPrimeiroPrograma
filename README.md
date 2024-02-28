@@ -1,1 +1,2 @@
-Neste programas temos uma operação de valores, onde se a operação escolhida for A, teremos uma conta de adição, se não, será multiplicação.
+Estudo da linguagem C
+Se o valor da Operacao for estritamente igual a A, ele resulta em uma adição, senão, resulta em uma multiplicação
